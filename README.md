@@ -20,3 +20,5 @@ pip install -r requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
+[<img alt="Flask: web development, one drop at a time" class="align-center" src="_images/flask-logo.png">](https://flask.palletsprojects.com/en/2.1.x/)
