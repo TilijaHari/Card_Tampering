@@ -11,3 +11,4 @@
 [![](https://i.imgur.com/R1g2wvC.png)](#hari)
 
 
+pip install -r requirements.txt
